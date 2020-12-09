@@ -27,6 +27,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" width="50" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50" />
+etc.
 <br />
 <br />
 
@@ -40,7 +41,7 @@
 [twitter]: https://twitter.com/moonsarinalu
 [linkedin]: https://www.linkedin.com/in/sarinasadat-hosseini-242372127/?originalSubdomain=jp
 [youtube]: https://www.youtube.com/channel/UCjpJoBOXtAOHlS62bxqPtng/playlists?view_as=subscriber
----
+
 
 
 
