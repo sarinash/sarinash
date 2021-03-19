@@ -1,12 +1,8 @@
 
 ### I am Sarinasadat Hosseini (Sarina) 👋
 
-## I'm a Student, Researcher and Music lover
+## I'm a Student, Researcher and Data scientist
 
-- 🔭 I just made my first Unity Agent
-- 🌱 I’m currently working on many things
-- 🥅 2021 Goals: Go to Canada
-- ⚡ Fun fact: I love to be a professional 3D artist
 
 ### Spotify Playing 🎧
 
