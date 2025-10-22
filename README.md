@@ -1,7 +1,7 @@
 
 ### I am Sarinasadat Hosseini (Sarina) 👋
 
-## I'm a Student, Researcher and Data scientist
+## I'm a Data scientist
 
 
 ### Spotify Playing 🎧
@@ -11,8 +11,6 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -26,10 +24,7 @@ etc.
 <br />
 <br />
 
-[twitter]: https://twitter.com/moonsarinalu
 [linkedin]: https://www.linkedin.com/in/sarinasadat-hosseini-242372127/?originalSubdomain=jp
-[youtube]: https://www.youtube.com/channel/UCjpJoBOXtAOHlS62bxqPtng/playlists?view_as=subscriber
-
 
 
 
